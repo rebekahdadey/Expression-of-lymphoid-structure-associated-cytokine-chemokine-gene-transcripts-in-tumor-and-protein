@@ -1,4 +1,4 @@
-# Melanoma_for_lilit
+# Expression of lymphoid structure-associated cytokine/chemokine gene transcripts in tumor and protein in serum are prognostic of melanoma patient outcomes
 
 Analysis for Front. Immunolol. 
 Expression of lymphoid structure-associated cytokine/chemokine gene transcripts in tumor and protein in serum are prognostic of melanoma patient outcomes 
